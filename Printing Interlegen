@@ -1,0 +1,14 @@
+#printing integer
+a = 10
+print(a)
+
+#printing string
+print("Hello from InterviewBit")
+
+#printing list
+c = [10,20,30,]
+print(c)
+
+#printing tuple
+d = (10,20)
+print(d)
